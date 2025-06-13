@@ -1,4 +1,4 @@
-# Boston House Price Prediction
+# House Price Prediction
 
 This repository contains a Python project, designed for Google Colab, that builds and evaluates regression models to predict house prices based on various property and neighborhood features.
 
